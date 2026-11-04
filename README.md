@@ -2,15 +2,7 @@
 
 A full-stack MERN web app to record income and expenses, view spending charts, and track your balance. Secured with JWT authentication.
 
-**Live demo:** _add link here_
-
-## Screenshots
-
-### Profile
-![Profile](screenshots/profile.png)
-
-### Transactions
-![Transactions](screenshots/transaction.png)
+**Live demo:** https://finance-tracker-mauve-delta.vercel.app/
 
 ## Features
 - Register and login with JWT, passwords hashed with bcrypt
